@@ -1,0 +1,25 @@
+---------------------------------------------------------
+Scenario_01 started at 2022-03-01 12:21:04.803440
+---------------------------------------------------------
+Home page --- loaded successfully
+ <https://www.farmersedge.ca/> --- URL is correct
+<Digital Farming Solutions | Precision Farming | Farmers Edge> --- title is correct
+---------------------------------------------------------
+Contact Us --- loaded successfully
+ <https://www.farmersedge.ca/contact/> --- URL is correct
+<Contact Us - Farmers Edge> --- title is correct
+---------------------------------------------------------
+Contact US form filled successfully, with following details:
+-------------------------------------------------------------------------------
+  Field: Details                                                                                                                               
+-------------------------------------------------------------------------------
+  Full name: Monique Roberts                                                                                                          
+  Phone number: 893.571.1420                                                                                                          
+  Email: Monique.Roberts@gmail.com                                                                                                    
+  Country: Jamaica                                                                                                                    
+  Preferred method of contact: Text                                                                                                   
+  Message: Cupiditate earum ut nam reiciendis voluptas cupiditate.
+-------------------------------------------------------------------------------
+---------------------------------------------------------
+Scenario_01 completed at 2022-03-01 12:21:19.969241
+---------------------------------------------------------
